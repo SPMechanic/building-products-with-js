@@ -1,6 +1,6 @@
 # Building products with javascript
 
-> Free open-source course
+> Free open-source course course initiated by Timofey Ermilov, Ph.D from University of Leipzig, Germany
 
 [![Build Status](https://gitlab.com/yamalight/building-products-with-js/badges/master/build.svg)](https://gitlab.com/yamalight/building-products-with-js/pipelines)
 
