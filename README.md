@@ -1,4 +1,4 @@
-# Building products with javascript
+# Building Products with JavaScript
 
 > Free open-source course course initiated by Timofey Ermilov, Ph.D from University of Leipzig, Germany
 
