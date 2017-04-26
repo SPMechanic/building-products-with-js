@@ -44,7 +44,7 @@ app.use(passport.session());
 
 // test method
 app.get('/', (req, res) => {
-  res.send('Hello world!');
+  res.send('Hello World from Syahri\'s MBP!');
 });
 
 // setup authentication routes

@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
+    "db:init": "docker run -d -p 28015:28015 -p 8090:8080 -v /db:/data --name expertsdb rethinkdb",    
     "db:create": "node util/db/create",
     "db:start": "docker start expertsdb",
     "db:stop": "docker stop expertsdb",
