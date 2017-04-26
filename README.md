@@ -11,7 +11,7 @@ This repository contains code and related materials for [Building products with 
 CI and CD for all the subprojects is done using [Gitlab-CI](https://gitlab.com/yamalight/building-products-with-js).
 
 ## Useful links
-
+ 
 - [YouTube channel](https://www.youtube.com/c/TimErmilov) with videos covering code
 - [Discord chat](https://discord.gg/hnKCXqQ) for questions and live discussions
 - [Subreddit](https://www.reddit.com/r/BuildingWithJS/) for discussions
